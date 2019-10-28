@@ -10,7 +10,7 @@ author：彭清
 至于具体的申请步骤的话百度搜索得到
 
 ##建立本地电脑和远程仓库的链接
-本篇主要讲的是ubuntu下使用githu
+本篇主要讲的是ubuntu下使用github
 
 ###ubuntu下使用ssh链接github远程仓库
 
@@ -50,7 +50,7 @@ git push -u origin master
 ```
 这样就完成了将线下的仓库提交到github上的整个过程了。这个只是初步教程。这是第一次提交时候需要的代码后面简化一下
 ```
-git add 文件
+git add .
 git commit -m“标签”
 git push
 ```
@@ -60,7 +60,7 @@ git push
 如果添加整个文件夹那个和添加文件一样
 
 ```
-git add dailywork/
+git add .
 #这里add整个文件夹就好了
 git commit -m "first commit"
 git remote add origin git@github.com:Aries5522/dailywork.git
