@@ -2,7 +2,7 @@ FCN网络
 ==================
 全连接网络结构，在之前的cnn的基础之上加了，全连接层(不是使用简单的双线性插值，上卷积层)
 
-！[](./images/FCN.png)
+![](./images/FCN.png)
 
 完全卷积网络(Fully Convolutional Networks)，
 推广了原有的CNN结构，在不带有全连接层的情况下能进行密集预测。
