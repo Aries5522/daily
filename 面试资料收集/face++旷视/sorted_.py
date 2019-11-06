@@ -11,8 +11,8 @@ def bubble_sort(numbs):
 # 最大值必然放到最后一个去了，那么我men第二次循环的次数就
 # 少了一个，如同程序所看。直到循环结束。冒泡排序是一种
 # 稳定的排序
-numbs=[1,3,4,2]
-#numbs=[3,1,4,2,33,5,8,42,5,41,7,6,6,12,134,44,6,9,1,2,3,2,1]
+# numbs=[1,3,4,2]
+numbs=[3,1,4,2,33,5,8,42,5,41,7,6,6,12,134,44,6,9,1,2,3,2,1]
 print("冒泡排序结果：")
 print(bubble_sort(numbs))
 
@@ -52,6 +52,55 @@ def quick_sort(numbs):
     pass
 
 def merge_sort(list1,list2):
-    pass
+    list3=[]
+    i=0
+    j=0
+    # for i in range(len(list1)):
+    #     for j in range(len(list2)):
+    while ((i+j)<(len(list1)+len(list2)-1)):
+        if list1[i]<list2[j]:
+            list3.append(list1[i])
+            i=i+1
+        else:
+            list3.append(list2[j])
+            j=j+1
+    return list3
+
+list1=[1,3,4,5,6,10]
+list2=[2,5,8,12]
+print("归并排序结果：")
+print(merge_sort(list1,list2))
 
 
+quick_sort = lambda array: array if len(array) <= 1 else quick_sort([item for item in array[1:] if item <= array[0]]) + [array[0]] + quick_sort([item for item in array[1:] if item > array[0]])
+print("快速排序结果：")
+print(quick_sort(numbs))
+
+
+
+
+
+def quick_sorted(array,l,r):
+    if l < r:
+        q=partition(array,l,r)
+        quick_sorted(array,l,q-1)
+        quick_sorted(array,q+1,r)
+def partition(array,l,r-1):
+    i=l-1
+    x=array[r-1]
+    for j in range(l,r-1):
+        if array[j]<=x:
+            i+=1
+            array[i],array[j]=array[j],array[i]
+    array[i+1],array[r-1]=array[r],array[i+1]
+    return i+1
+        
+    #着一种排序是递归加二分的思想
+quick_sorted(array=numbs,l=0,r=len(numbs))
+print(numbs)
+    
+
+
+a=map(lambda x: "pic_"+str(x)+".png",range(9))
+b=[ "pic_%d.png" % (i) for i in range(20)]
+print(b)
