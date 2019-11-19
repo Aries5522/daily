@@ -72,3 +72,6 @@ git remote add origin git@github.com:Aries5522/dailywork.git
 git push -u origin master
 ```
 [知乎——github](https://zhuanlan.zhihu.com/p/44181150) 
+
+
+还有一种情况本地，重装系统之后，那么闲杂的电脑需要重新和之前的远仓库建立链接，
