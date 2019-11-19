@@ -78,9 +78,8 @@ print(quick_sort(numbs))
 
 
 
-#这一种排序是递归加二分的思想
 
-    
+#这一种排序是递归加二分的思想
 
 
 a=map(lambda x: "pic_"+str(x)+".png",range(9))
