@@ -1,3 +1,4 @@
 {
-    "editor.fontSize": 20
+    "editor.fontSize": 20,
+    "python.pythonPath": "/home/aries/anaconda3/envs/py3.7/bin/python"
 }
