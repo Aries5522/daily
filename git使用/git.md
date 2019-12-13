@@ -89,3 +89,6 @@ git add .
 git commit -m“标签”
 git push
 ```
+
+在自己的代码库中进行操作,千万不要在根目录下操作
+
