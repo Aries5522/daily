@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="arglorithms_competition"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arglorithms_competition">
+				<Option output="/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/arglorithms_competition" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 arglorithms_competition"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arglorithms_competition/fast">
+				<Option output="/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/arglorithms_competition" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 arglorithms_competition/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/c++primer/test.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter2/ex1.1.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter2/ex1.2.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter2/ex1.3.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter2/ex1.4.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter2/ex1.5.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter2/ex2.1.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter2/question2_1.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter2/question2_3.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter2/question2_4.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter3/question3_1.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter3/question3_2.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter3/question3_3.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/chapter3/question3_6.cpp">
+			<Option target="arglorithms_competition"/>
+		</Unit>
+		<Unit filename="/media/aries/新加卷/cppworkspace/arglorithms_competition/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

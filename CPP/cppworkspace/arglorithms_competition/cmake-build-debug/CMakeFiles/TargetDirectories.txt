@@ -1,0 +1,3 @@
+/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/CMakeFiles/arglorithms_competition.dir
+/media/aries/新加卷/cppworkspace/arglorithms_competition/cmake-build-debug/CMakeFiles/edit_cache.dir
