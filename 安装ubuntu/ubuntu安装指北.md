@@ -5,7 +5,8 @@
 
 [toc]
 
-##简介
+简介
+----------------------------------------------------
 介绍一下，这个文章主要要写我自己配置Ubuntu的一些软件环境的经历
 
 
@@ -56,7 +57,7 @@ sudo apt-get install libsqlite3-dev
 或者一条sudo apt-get install libbz2-dev libssl-dev libreadline6 libreadline6-dev libsqlite3-dev
 ```
 
-安装pyenv
+安装pyenv,后面可以省略 不用安装这个工具,anaconda已经很好用了,不需要这个来控制anaconda的版本
 ```
 sudo apt-get install curl git-core
 curl -L https://raw.github.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
@@ -145,9 +146,9 @@ conda config --set show_channel_urls yes
 给哪个环境安装：
 先打开环境，linux下在终端输入：
 ```
-source activate py3.6 #进入环境
+conda activate py3.6 #进入环境
 conda list #显示安装的包
-source deactivate py3.6 #离开环境
+conda deactivate py3.6 #离开环境
 which python #查看当前python版本
 pip install --upgrade pip #更新pip
 conda upgrade    --all #为避免出错可以直接更新所有
