@@ -1,0 +1,6 @@
+Scale-Aware Trident Networks for Object Detection
+代码链接
+(https://github.com/TuSimple/simpledet/tree/master/models/tridentnet)
+基于mxnet的simpledet工具集成了这个网络
+
+解决目标检测中多尺度的问题,还有小目标检测困难
