@@ -1,4 +1,5 @@
-题目描述：有效的括号
+有效的括号
+=============================
 题目链接：
 [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 描述如下
