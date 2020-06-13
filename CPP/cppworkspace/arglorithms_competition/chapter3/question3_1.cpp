@@ -1,16 +1,16 @@
-//
-// Created by aries on 2019/9/26.
-//
 
-//
+// //Created by aries on 2019/9/26.
 
-//#include <iostream>
-//#include <string.h>
-//#define maxn 8
-//using namespace std;
-//char chars[maxn];
-//
-//int main(){
+
+
+
+// #include <iostream>
+// #include <string.h>
+// #define maxn 8
+// using namespace std;
+// char chars[maxn];
+
+// int main(){
 //    int T;
 //    scanf("%d",&T);
 //    while(T--)
@@ -19,7 +19,7 @@
 //    int sum=0,k1=1;
 //    cout<<sizeof(chars)<<endl;
 //    cout<<strlen(chars)<<endl;
-//
+
 //    for (int i=0 ; i< strlen(chars);i++)
 //        {   if (chars[i]=='O')
 //            {sum=sum+k1;k1++;}
@@ -28,13 +28,13 @@
 //        }
 //    cout<<sum<<endl;}
 //    return 0;
-//}
+// }
 
-//#include"stdio.h"
-//#include"string.h"
-//#define maxn 80
-//int main()
-//{
+// #include"stdio.h"
+// #include"string.h"
+// #define maxn 80
+// int main()
+// {
 //    int T,i,m,sum,c;
 //    char s[maxn];
 //    scanf("%d",&T);
@@ -54,4 +54,4 @@
 //        printf("%d\n",sum);
 //    }
 //    return 0;
-//}
+// }
