@@ -2,6 +2,12 @@ deeplabv1
 =====================
 Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs(Deeplab v1)
 
+主要贡献:
+* 空洞卷积
+* 空间金字塔池化
+* 全连接条件随机场
+
+
 1. 首先它是个 VGG-16
 2. 然后为了使图像语义分割更准确，5 个 max-pooling 层 skip 了后两个（具体实现上，看G站上的代码，似乎没有去除，而是保留了后两个 max-pooling ，只是将 stride = 2 改为 stride = 1，kernal = 3），最后卷积层的输出整体 stride 从 32x 下降至 8x。
 3. 参考 Uno Whoiam：空洞卷积（Dilated Convolution）：有之以为利，无之以为用 ，由于后两个 max-pooling 影响了其后的卷积层，使其视野分别下降了 2x 和 4x，为了保持其原来的视野，便将其改成空洞卷积，dilation 分别为 2 和 4，理念与DRN一致。
