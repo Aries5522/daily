@@ -5,7 +5,7 @@
 
 [1.2021届秋招资料收集](./2021届秋招/2021届招聘.md)
 
-[2.deeplearning_note](./2021届秋招/deeplearning_note/README.md)
+[2.deeplearning_note](./2021届秋招/deeplearning_note/)
 
 [3.git使用](./git使用/git.md)
 
