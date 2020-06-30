@@ -5,11 +5,11 @@
 
 [1.2021届秋招资料收集](./2021届秋招/2021届招聘.md)
 
-[2.deeplearning_note](./deeplearning_note/README.md)
+[2.deeplearning_note](./2021届秋招/deeplearning_note/README.md)
 
 [3.git使用](./git使用/git.md)
 
-[4.leetcode刷题](./leetcode/)
+[4.leetcode刷题](./2021届秋招/leetcode/)
 
 [5.python基础](./python/)
 
