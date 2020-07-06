@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file:///media/aries/新加卷/pengqing_projects_all/天池宫颈癌比赛/EfficientDet/.idea/EfficientDet.iml" filepath="/media/aries/新加卷/pengqing_projects_all/天池宫颈癌比赛/EfficientDet/.idea/EfficientDet.iml" />
-      <module fileurl="file:///media/aries/新加卷/pengqing_projects_all/yaogan_v3/deeplabv3/.idea/deeplabv3.iml" filepath="/media/aries/新加卷/pengqing_projects_all/yaogan_v3/deeplabv3/.idea/deeplabv3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
-      <module fileurl="file:///media/aries/新加卷/pengqing_projects_all/prediction/.idea/prediction.iml" filepath="/media/aries/新加卷/pengqing_projects_all/prediction/.idea/prediction.iml" />
-      <module fileurl="file:///media/aries/新加卷/pengqing_projects_all/segmentation/.idea/segmentation.iml" filepath="/media/aries/新加卷/pengqing_projects_all/segmentation/.idea/segmentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../pengqing_projects_all/prediction/.idea/prediction.iml" filepath="$PROJECT_DIR$/../../../../../pengqing_projects_all/prediction/.idea/prediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../pengqing_projects_all/segmentation/.idea/segmentation.iml" filepath="$PROJECT_DIR$/../../../../../pengqing_projects_all/segmentation/.idea/segmentation.iml" />
     </modules>
   </component>
 </project>

@@ -4,8 +4,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.7 (py3.7)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="deeplabv3" />
-    <orderEntry type="module" module-name="EfficientDet" />
     <orderEntry type="module" module-name="segmentation" />
     <orderEntry type="module" module-name="prediction" />
   </component>

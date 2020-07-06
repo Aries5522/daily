@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../../../../../pengqing_projects_all/segmentation" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../../../../../pengqing_projects_all/天池宫颈癌比赛/EfficientDet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
   </component>
 </project>
