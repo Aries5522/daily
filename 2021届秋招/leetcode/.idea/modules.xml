@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../../../pengqing_projects_all/prediction/.idea/prediction.iml" filepath="$PROJECT_DIR$/../../../../../pengqing_projects_all/prediction/.idea/prediction.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../../../pengqing_projects_all/segmentation/.idea/segmentation.iml" filepath="$PROJECT_DIR$/../../../../../pengqing_projects_all/segmentation/.idea/segmentation.iml" />
     </modules>
   </component>
 </project>

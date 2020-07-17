@@ -19,7 +19,7 @@ def merge(list1,list2):
     return list3
 
 numbs=[3,1,4,2,33,5,8,42,5,41,7,6,6,12,134,44,6,9,1,2,3,2,1]
-print(merge_sort(numbs))
+print("归并结果为:{}".format(merge_sort(numbs)))
 
 quick_sort = lambda array: array if len(array) <= 1 else \
     quick_sort([item for item in array[1:] if item <= array[0]]) + \
