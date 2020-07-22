@@ -10,6 +10,8 @@
 """
 
 from typing import List
+
+
 class Solution:
     def search(self, arr: List[int], target: int) -> int:
         n = len(arr)
@@ -18,22 +20,27 @@ class Solution:
         l = 0
         r = n - 1
         while l < r:
-            mid = l + (r - l) // 2+1
-            print(arr[mid])
-            if arr[l] <= arr[mid]:
-                if target < arr[l]:
-                    l = mid
-                elif target >= arr[mid]:
-                    l = mid
+            mid = l + (r - l) // 2
+            if arr[l] < arr[mid]:
+                if arr[l] <= target and target <= arr[mid]:
+                    r = mid
                 else:
-                    r = mid-1
-            if arr[l] > arr[mid]:
-                if target > arr[r]:
-                    r = mid-1
-                elif target >= arr[mid]:
-                    l = mid
+                    l = mid + 1
+            elif arr[l] > arr[mid]:
+                if arr[mid] < target and target < arr[r]:
+                    l = mid+1
                 else:
-                    r = mid-1
-        return l if arr[l]==target else -1
+                    r = mid
+            else:
+                while arr[l] != target and l<r:
+                    l += 1
+                    if arr[l] == target:
+                        r = l
+                        break
+                if arr[l]==target:
+                    return l
+        return l if arr[l] == target else -1
 
-print(Solution().search(arr = [15, 16, 19, 20, 25, 1, 3, 4, 5, 7, 10, 14], target = 5))
+
+print(Solution().search(arr=[-30, -25, -22, -22, -18, -12, -11, -11, -9, -8, -8, -1, 0, 0, 5, 6, 6, 13, 14, 16, 16, 18, 19, 19, 21, 21, 22, 23, 25, 26, 30, 30, 30, 32, 37, 38, 40, 41, 43, 43, 45, 45, 45, 46, 46, 47, 56, 59, 61, 62, 64, 65, 69, 73, 74, 80, 84, 84, 86, 86, 88, 88, 89, 89, 90, 90, 91, 92, 92, -93, -93, -87, -84, -82, -80, -80, -79, -77, -74, -73, -70, -68, -66, -64, -60, -58, -55, -52, -51, -51, -49, -46, -43, -34]
+, target=89))
