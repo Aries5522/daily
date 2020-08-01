@@ -4,17 +4,19 @@ class MinStack:
         """
         initialize your data structure here.
         """
-        self.A=[]
-        self.B=[]
+        self.A = []
+        self.B = []
+
     def push(self, x: int) -> None:
         self.A.append(x)
         if not self.B:
             self.B.append(x)
-        elif x<=self.B[-1]:
+        elif x <= self.B[-1]:
             self.B.append(x)
+
     def pop(self) -> None:
-        k=self.A.pop()
-        if k==self.B[-1]:
+        k = self.A.pop()
+        if k == self.B[-1]:
             self.B.pop()
         return k
 
@@ -24,4 +26,5 @@ class MinStack:
     def getMin(self) -> int:
         if self.B:
             return self.B[-1]
-        else:return None
+        else:
+            return None
