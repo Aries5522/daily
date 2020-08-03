@@ -1,4 +1,4 @@
-def minMeetingRooms(starts,ends):
+def minMeetingRooms(starts, ends):
     starts.sort()
     ends.sort()
     s, e = 0, 0
@@ -15,4 +15,4 @@ def minMeetingRooms(starts,ends):
     return min_rooms
 
 
-print(minMeetingRooms(starts=[1,1,2,3],ends=[4,2,3,4]))
+print(minMeetingRooms(starts=[1, 1, 2, 3], ends=[4, 2, 3, 4]))
