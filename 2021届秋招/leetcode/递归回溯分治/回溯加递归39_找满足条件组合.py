@@ -8,7 +8,6 @@ class Solution:
                 return
             if target<0:
                 return
-
             for i in range(start,n):
                 path.append(nums[i])
                 backtrace(nums,i,target-nums[i],path,res)
