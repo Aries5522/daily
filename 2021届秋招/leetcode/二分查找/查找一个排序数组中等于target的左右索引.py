@@ -1,31 +1,32 @@
 """
-查找左边界
-lower bound A[i] > x
-def lowwer_bound(self, nums, target):
-    # find in range [left, right)
-    left, right = 0, len(nums)
-    while left < right:
-        mid = left + (right - left) // 2
-        if nums[mid] < target:
-            left = mid + 1
+
+    def lower_bound(self, nums, target):  ##查找大于等于target的最小的下标
+        l = 0
+        r = len(nums) - 1
+        while l < r:
+            mid = l + (r - l) // 2
+            if nums[mid] < target:
+                l = mid + 1
+            else:
+                r = mid
+        if nums[l] >= target:
+            return l
         else:
-            right = mid
-    return left
+            return -1
 
- 右边边界
-upper bound: find index of i, such that A[i] > x
-
-def higher_bound(self, nums, target):
-    # find in range [left, right)
-    left, right = 0, len(nums)
-    while left < right:
-        mid = left + (right - left) // 2
-        if nums[mid] <= target:
-            left = mid + 1
+    def upper_bound(self, nums, target):  ##查找小于等于target的最大的下标
+        l = 0
+        r = len(nums) - 1
+        while l < r:
+            mid = l + (r - l + 1) // 2
+            if nums[mid] > target:
+                r = mid - 1
+            else:
+                l = mid
+        if nums[l] <= target:
+            return l
         else:
-            right = mid
-    return left
-
+            return -1
 
 """
 """
@@ -42,31 +43,43 @@ https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sort
 
 ##
 from typing import List
+
+
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        left=self.lower_bound(nums,target)
-        right=self.upper_bound(nums,target)
-        if left==right:
-            return [-1,-1]
-        return [left,right-1]
-    def lower_bound(self,nums,target):
-        l=0
-        r=len(nums)
-        while l<r:
-            mid=l+(r-l)//2
-            if nums[mid]<target:
-                l=mid+1
+        left = self.lower_bound(nums, target)
+        right = self.upper_bound(nums, target)
+        if left == right:
+            return [-1, -1]
+        return [left, right]
+
+    def lower_bound(self, nums, target):  ##查找大于等于target的最小的下标
+        l = 0
+        r = len(nums) - 1
+        while l < r:
+            mid = l + (r - l) // 2
+            if nums[mid] < target:
+                l = mid + 1
             else:
-                r=mid
-        return l
-    def upper_bound(self,nums,target):
-        l=0
-        r=len(nums)
-        while l<r:
-            mid=l+(r-l)//2
-            if nums[mid]<=target:
-                l=mid+1
+                r = mid
+        if nums[l] >= target:
+            return l
+        else:
+            return -1
+
+    def upper_bound(self, nums, target):  ##查找小于等于target的最大的下标
+        l = 0
+        r = len(nums) - 1
+        while l < r:
+            mid = l + (r - l + 1) // 2
+            if nums[mid] > target:
+                r = mid - 1
             else:
-                r=mid
-        return l
-print(Solution().searchRange([5,7,7,8,8,10],8))
+                l = mid
+        if nums[l] <= target:
+            return l
+        else:
+            return -1
+
+
+print(Solution().searchRange([5, 5, 7, 8, 10], 6))

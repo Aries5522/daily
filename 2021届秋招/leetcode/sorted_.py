@@ -149,14 +149,14 @@ def quick_sorted(array, left, right):
     array[l], array[left] = array[left], array[l]
     quick_sorted(array, 0, l - 1)
     quick_sorted(array, l + 1, right)
+    return array
 
 
 numbs1 = [1, 2, 5, 8, 4, 3, 6, 10, 1]
 r = len(numbs1) - 1
-
 print(numbs1)
-quick_sorted(numbs1, 0, r)
-print(numbs1)
+array=quick_sorted(numbs1, 0, r)
+print(array)
 # 这一种排序是递归加二分的思想
 
 a = map(lambda x: "pic_" + str(x) + ".png", range(9))
