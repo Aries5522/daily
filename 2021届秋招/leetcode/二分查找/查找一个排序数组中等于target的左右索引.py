@@ -14,7 +14,7 @@
         else:
             return -1
 
-    def upper_bound(self, nums, target):  ##查找小于等于target的最大的下标
+    def upper_bound(self, nums, target):  ##查找小于等于target的最大的下标,所以nums[mid]>target的时候
         l = 0
         r = len(nums) - 1
         while l < r:

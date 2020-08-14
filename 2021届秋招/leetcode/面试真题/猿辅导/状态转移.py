@@ -10,7 +10,6 @@ def encoder(nums):
 def longest_step(mat1, mat2):
     visited = [0] * 512
     res = []
-
     def dfs(mat1, ans, visited):
         if encoder(mat1) == encoder(mat2):
             res.append(ans)

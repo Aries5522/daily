@@ -1,5 +1,4 @@
 
-
 class ListNode:
     def __init__(self,x):
         self.val=x
@@ -18,7 +17,6 @@ class Solution:
             return head
         res=ListNode(None)
         res.next=head
-
         cur=head
         node2=res
         i=1

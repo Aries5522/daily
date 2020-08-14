@@ -37,7 +37,7 @@ def kgropu_reverse(head, k):
             temp.next = pre.next
             pre.next = temp
         pre = cur
-        cur = pre.next
+        cur = cur.next
     return res.next
 
 
