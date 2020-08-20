@@ -17,8 +17,27 @@ def compute_iou(rec1, rec2):
     print("commen_area:{}".format(commen_area))
     return commen_area / (sum_area - commen_area)
 
-def IOU(matrix):
-    pass
+
+def IOU(rec1, rec2):
+    """
+    :param rec1:x0,y0,x1,y1
+    :param re2:
+    :return:
+    """
+    x0, y0, x1, y1 = rec1
+    x2, y2, x3, y3 = rec2
+    s_rec1 = (x1 - x0) * (y1 - y0)
+    s_rec2 = (x3 - x2) * (y3 - y2)
+    Union = s_rec2 + s_rec1
+    max_left = max(x0, x2)
+    min_right = min(x1, x3)
+    max_top = max(y0, y2)
+    min_bottom = min(y1, y3)
+    x_len = max(0, min_right - max_left)
+    y_len = max(0, min_bottom - max_top)
+    Over = x_len * y_len
+    return Over / (Union - Over)
+
 
 def NMS(list_reference, threshold):
     """
@@ -32,7 +51,7 @@ def NMS(list_reference, threshold):
     res = []
     while list_reference:
         point1 = list_reference[0][0:4]
-        res.append(list_reference.pop(0))
+        res.append(list_reference.pop(0))  # 取出最高置信度的点
         list_left = []
         while list_reference:
             point2 = list_reference[0][0:4]
@@ -48,6 +67,7 @@ if __name__ == '__main__':
     rec1 = (1, 1, 3, 3)
     rec2 = (2, 2, 4, 4)
     rec3 = (1, 1, 3, 3)
+    print(IOU(rec2, rec1))
     print(compute_iou(rec1, rec2))
 
     list_test = [(1, 1, 3, 3, 0.99), (1, 1, 3, 3, 0.8), (2, 2, 4, 4, 0.3)]
