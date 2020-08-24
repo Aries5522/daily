@@ -67,6 +67,7 @@ import numpy as np
 from sklearn.metrics import roc_curve
 from sklearn.metrics import auc
 
+
 # ---自己按照公式实现
 def auc_calculate(labels, preds, n_bins=100):
     postive_len = sum(labels)
@@ -90,7 +91,21 @@ def auc_calculate(labels, preds, n_bins=100):
     return satisfied_pair / float(total_case)
 
 
-
+def MY_AUC(labels, pred):
+    data = [(label, pre) for label, pre in zip(labels, pred)]
+    data = sorted(data, key=lambda x: x[0])
+    len_T = sum(labels)
+    len_N = len(labels) - len_T
+    fenzi = 0
+    fenmu = len_T * len_N
+    for i in range(len_T):
+        for j in range(len_N):
+            if data[i + len_N][1] > data[j][1]:
+                fenzi += 1
+            elif data[i + len_N][1] == data[j][1]:
+                fenzi += 0.5
+            else:continue
+    return fenzi / fenmu
 
 
 if __name__ == '__main__':
@@ -109,3 +124,4 @@ if __name__ == '__main__':
     fpr, tpr, thresholds = roc_curve(y, pred, pos_label=1)
     print("-----sklearn:", auc(fpr, tpr))
     print("-----py脚本:", auc_calculate(y, pred))
+    print("-----MY_AUC", MY_AUC(y, pred))
