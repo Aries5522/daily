@@ -90,7 +90,6 @@ def merge_sort(list0):
     left, right = list0[0:mid], list0[mid:]
     return merge(merge_sort(left), merge_sort(right))
 
-
 def merge(list1, list2):
     list3 = []
     while list1 != [] and list2 != []:
@@ -164,3 +163,5 @@ a = map(lambda x: "pic_" + str(x) + ".png", range(9))
 b = ["pic_%d.png" % (i) for i in range(20)]
 
 print(b)
+import _thread
+_thread.start_new_thread()

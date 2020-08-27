@@ -107,7 +107,6 @@ def MY_AUC(labels, pred):
             else:continue
     return fenzi / fenmu
 
-
 if __name__ == '__main__':
     rec1 = (1, 1, 3, 3)
     rec2 = (2, 2, 4, 4)
