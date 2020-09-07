@@ -25,13 +25,13 @@ def kgropu_reverse(head, k):
     res.next = head
     len_ = 0
     cur = head
-    while cur:
+    while cur:   ##先看链表长度
         len_ += 1
         cur = cur.next
     cur = head
     # print(len_)
-    for i in range(len_ // k):
-        for j in range(k - 1):
+    for i in range(len_ // k):  ##总的翻转次数
+        for j in range(k - 1):  ## 每次内部翻转
             temp = cur.next
             cur.next = temp.next
             temp.next = pre.next

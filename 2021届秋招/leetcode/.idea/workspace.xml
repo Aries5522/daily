@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="381b6f93-5efc-46c1-9dee-892f33748f6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/凯哥.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/农行2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/华为/华为96.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/字节/字节2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/字节/字节4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/旷世/旷世2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/渤海银行/渤海1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/百度/百度2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/美团/美团829-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/美团/美团829.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/腾讯/腾讯1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/腾讯/腾讯2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/腾讯/腾讯4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/腾讯/腾讯5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/虾皮/虾皮2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/贝壳/贝壳907-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/贝壳/贝壳907-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/贝壳/贝壳907-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试真题/跟谁学1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021届招聘.md" beforeDir="false" afterPath="$PROJECT_DIR$/../2021届招聘.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001_sum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0007_integer_convert.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0009_ispalindrome.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0013_Roman2integer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0014_longestCommonPrefix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0020_Valid_parentheses.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0021_mergeTwoLists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS/字符串排列.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/字符串排列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heapq使用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刷题步骤.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表/k个一组实现链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/链表/k个一组实现链表.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:Aries5522/daily.git" />
+        <option value="git@github.com:Rosalyn0211/segmentation.git" />
+        <option value="https://github.com/xuannianz/EfficientDet.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cyOLPRJ9ImunpeQZHtzkPQXqMr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../0F20176E0F20176E/projects/segmentation" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="leetcode" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="leetcode" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\shared\markdown\daily\2021届秋招\leetcode\面试真题\大疆笔试" />
+      <recent name="$PROJECT_DIR$/面试真题/美团" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.旷世2">
+    <configuration name="旷世2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试真题/旷世" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试真题/旷世/旷世2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="百度2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试真题/百度" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试真题/百度/百度2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="依图2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试真题/依图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试真题/依图/依图2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="贝壳907-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试真题/贝壳" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试真题/贝壳/贝壳907-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="贝壳907-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试真题/贝壳" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试真题/贝壳/贝壳907-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="贝壳907-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试真题/贝壳" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试真题/贝壳/贝壳907-4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="华为96" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试真题/华为" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试真题/华为/华为96.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="滑动窗口最大值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/栈" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/栈/滑动窗口最大值.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="字符串排列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/字符串排列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="美团" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试真题/美团" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试真题/美团/美团.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网易第二题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试真题/网易笔试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试真题/网易笔试/网易第二题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="分割字串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试真题/滴滴手撕" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试真题/滴滴手撕/分割字串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="状态转移" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试真题/猿辅导" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试真题/猿辅导/状态转移.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="回溯全排列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/回溯全排列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="逆序对" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/逆序对.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="正则表达式匹配" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/正则表达式匹配.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.华为96" />
+      <item itemvalue="Python.贝壳907-1" />
+      <item itemvalue="Python.贝壳907-4" />
+      <item itemvalue="Python.贝壳907-3" />
+      <item itemvalue="Python.旷世2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.旷世2" />
+        <item itemvalue="Python.贝壳907-3" />
+        <item itemvalue="Python.贝壳907-4" />
+        <item itemvalue="Python.贝壳907-1" />
+        <item itemvalue="Python.华为96" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="381b6f93-5efc-46c1-9dee-892f33748f6a" name="Default Changelist" comment="" />
+      <created>1591497310178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591497310178</updated>
+      <workItem from="1591497312613" duration="27490000" />
+      <workItem from="1591775737027" duration="5602000" />
+      <workItem from="1591852763079" duration="185000" />
+      <workItem from="1591852962802" duration="7231000" />
+      <workItem from="1591948127639" duration="8933000" />
+      <workItem from="1592026223160" duration="2728000" />
+      <workItem from="1592205324130" duration="201000" />
+      <workItem from="1593747211450" duration="3110000" />
+      <workItem from="1593782501352" duration="1681000" />
+      <workItem from="1593844074818" duration="867000" />
+      <workItem from="1593845703607" duration="20325000" />
+      <workItem from="1594003390490" duration="4400000" />
+      <workItem from="1594015744776" duration="1229000" />
+      <workItem from="1594953116342" duration="15879000" />
+      <workItem from="1594987255761" duration="10026000" />
+      <workItem from="1595249236270" duration="8583000" />
+      <workItem from="1595850205361" duration="41796000" />
+      <workItem from="1596251981501" duration="11240000" />
+      <workItem from="1596279748879" duration="63398000" />
+      <workItem from="1596638508007" duration="9846000" />
+      <workItem from="1596722032117" duration="10165000" />
+      <workItem from="1596874441701" duration="3100000" />
+      <workItem from="1596894781163" duration="7234000" />
+      <workItem from="1596951930965" duration="54800000" />
+      <workItem from="1597632141570" duration="1949000" />
+      <workItem from="1597887559325" duration="33490000" />
+      <workItem from="1598440958831" duration="7672000" />
+      <workItem from="1598512167829" duration="5770000" />
+      <workItem from="1598604704364" duration="3580000" />
+      <workItem from="1598666956954" duration="1291000" />
+      <workItem from="1598688178703" duration="29895000" />
+      <workItem from="1599304442608" duration="818000" />
+      <workItem from="1599310689273" duration="397000" />
+      <workItem from="1599388036970" duration="23810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1955" y="553" width="1000" height="839" key="#Deployment" timestamp="1595047462605">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="1955" y="553" width="1000" height="839" key="#Deployment/1920.0.1080.1920/0.428.1920.1080@1920.0.1080.1920" timestamp="1595047462605" />
+    <state x="2317" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594005655473">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2317" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1594005655473" />
+    <state x="441" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1594003089384" />
+    <state x="2538" y="329" width="723" height="446" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596683753107">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2538" y="329" width="723" height="446" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1596683753107" />
+    <state x="568" y="12" width="822" height="1053" key="#iou_compute" timestamp="1596880120647">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="568" y="12" width="822" height="1053" key="#iou_compute/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1596880120647" />
+    <state x="2603" y="230" key="#xdebugger.evaluate" timestamp="1598065845109">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2603" y="230" key="#xdebugger.evaluate/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1598065845109" />
+    <state x="1969" y="27" width="822" height="1053" key="#移除掉K位数字,使得剩下的最小" timestamp="1596252055718">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1969" y="27" width="822" height="1053" key="#移除掉K位数字,使得剩下的最小/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1596252055718" />
+    <state x="662" y="330" width="634" height="418" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596372369272">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="662" y="330" width="634" height="418" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1596372369272" />
+    <state x="1975" y="27" width="1121" height="1053" key="CommitChangelistDialog2" timestamp="1594008682591">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1975" y="27" width="1121" height="1053" key="CommitChangelistDialog2/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1594008682591" />
+    <state x="357" y="201" width="963" height="635" key="EnvironmentVariablesDialog" timestamp="1594003421394">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state x="357" y="201" width="963" height="635" key="EnvironmentVariablesDialog/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1594003421394" />
+    <state x="715" y="53" width="459" height="1027" key="FileChooserDialogImpl" timestamp="1599388382595">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="683" y="481" key="FileChooserDialogImpl/1920.0.1080.1920/0.428.1920.1080@0.428.1920.1080" timestamp="1595227171000" />
+    <state x="2304" y="388" width="459" height="1064" key="FileChooserDialogImpl/1920.0.1080.1920/0.428.1920.1080@1920.0.1080.1920" timestamp="1595059529944" />
+    <state x="2603" y="27" width="459" height="1053" key="FileChooserDialogImpl/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1596687164232" />
+    <state x="715" y="53" width="459" height="1027" key="FileChooserDialogImpl/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1599388382595" />
+    <state x="2602" y="218" key="FileChooserDialogImpl/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1592026283279" />
+    <state x="717" y="240" width="530" height="598" key="FileChooserDialogImpl/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1591969820463" />
+    <state width="1807" height="281" key="GridCell.Tab.0.bottom" timestamp="1599483736372">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1894" height="378" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599298954876" />
+    <state width="1807" height="386" key="GridCell.Tab.0.bottom/1920.0.1080.1920/0.428.1920.1080@0.428.1920.1080" timestamp="1595225523432" />
+    <state width="1016" height="628" key="GridCell.Tab.0.bottom/1920.0.1080.1920/0.428.1920.1080@1920.0.1080.1920" timestamp="1594980673296" />
+    <state width="1016" height="432" key="GridCell.Tab.0.bottom/1920.0.1080.1920/49.27.1871.1053@1920.0.1080.1920" timestamp="1595309764428" />
+    <state width="1016" height="756" key="GridCell.Tab.0.bottom/1920.0.1080.1920/49.27.1871.1053@49.27.1871.1053" timestamp="1595341414687" />
+    <state width="1807" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1599035214354" />
+    <state width="1807" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1599483736372" />
+    <state width="1801" height="308" key="GridCell.Tab.0.bottom/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1594008401411" />
+    <state width="1801" height="252" key="GridCell.Tab.0.bottom/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1594003375883" />
+    <state width="1807" height="212" key="GridCell.Tab.0.bottom/49.27.1871.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596117524508" />
+    <state width="1807" height="332" key="GridCell.Tab.0.bottom/49.27.1871.1053/1920.0.1080.1920@49.27.1871.1053" timestamp="1595851241900" />
+    <state width="1807" height="281" key="GridCell.Tab.0.center" timestamp="1599483736372">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1894" height="378" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599298954876" />
+    <state width="1807" height="386" key="GridCell.Tab.0.center/1920.0.1080.1920/0.428.1920.1080@0.428.1920.1080" timestamp="1595225523432" />
+    <state width="1016" height="628" key="GridCell.Tab.0.center/1920.0.1080.1920/0.428.1920.1080@1920.0.1080.1920" timestamp="1594980673296" />
+    <state width="1016" height="432" key="GridCell.Tab.0.center/1920.0.1080.1920/49.27.1871.1053@1920.0.1080.1920" timestamp="1595309764428" />
+    <state width="1016" height="756" key="GridCell.Tab.0.center/1920.0.1080.1920/49.27.1871.1053@49.27.1871.1053" timestamp="1595341414687" />
+    <state width="1807" height="281" key="GridCell.Tab.0.center/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1599035214354" />
+    <state width="1807" height="281" key="GridCell.Tab.0.center/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1599483736372" />
+    <state width="1801" height="308" key="GridCell.Tab.0.center/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1594008401411" />
+    <state width="1801" height="252" key="GridCell.Tab.0.center/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1594003375883" />
+    <state width="1807" height="212" key="GridCell.Tab.0.center/49.27.1871.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596117524508" />
+    <state width="1807" height="332" key="GridCell.Tab.0.center/49.27.1871.1053/1920.0.1080.1920@49.27.1871.1053" timestamp="1595851241900" />
+    <state width="1807" height="281" key="GridCell.Tab.0.left" timestamp="1599483736372">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1894" height="378" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599298954875" />
+    <state width="1807" height="386" key="GridCell.Tab.0.left/1920.0.1080.1920/0.428.1920.1080@0.428.1920.1080" timestamp="1595225523432" />
+    <state width="1016" height="628" key="GridCell.Tab.0.left/1920.0.1080.1920/0.428.1920.1080@1920.0.1080.1920" timestamp="1594980673296" />
+    <state width="1016" height="432" key="GridCell.Tab.0.left/1920.0.1080.1920/49.27.1871.1053@1920.0.1080.1920" timestamp="1595309764428" />
+    <state width="1016" height="756" key="GridCell.Tab.0.left/1920.0.1080.1920/49.27.1871.1053@49.27.1871.1053" timestamp="1595341414687" />
+    <state width="1807" height="281" key="GridCell.Tab.0.left/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1599035214353" />
+    <state width="1807" height="281" key="GridCell.Tab.0.left/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1599483736372" />
+    <state width="1801" height="308" key="GridCell.Tab.0.left/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1594008401411" />
+    <state width="1801" height="252" key="GridCell.Tab.0.left/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1594003375883" />
+    <state width="1807" height="212" key="GridCell.Tab.0.left/49.27.1871.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596117524508" />
+    <state width="1807" height="332" key="GridCell.Tab.0.left/49.27.1871.1053/1920.0.1080.1920@49.27.1871.1053" timestamp="1595851241899" />
+    <state width="1807" height="281" key="GridCell.Tab.0.right" timestamp="1599483736372">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1894" height="378" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599298954876" />
+    <state width="1807" height="386" key="GridCell.Tab.0.right/1920.0.1080.1920/0.428.1920.1080@0.428.1920.1080" timestamp="1595225523432" />
+    <state width="1016" height="628" key="GridCell.Tab.0.right/1920.0.1080.1920/0.428.1920.1080@1920.0.1080.1920" timestamp="1594980673296" />
+    <state width="1016" height="432" key="GridCell.Tab.0.right/1920.0.1080.1920/49.27.1871.1053@1920.0.1080.1920" timestamp="1595309764428" />
+    <state width="1016" height="756" key="GridCell.Tab.0.right/1920.0.1080.1920/49.27.1871.1053@49.27.1871.1053" timestamp="1595341414687" />
+    <state width="1807" height="281" key="GridCell.Tab.0.right/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1599035214354" />
+    <state width="1807" height="281" key="GridCell.Tab.0.right/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1599483736372" />
+    <state width="1801" height="308" key="GridCell.Tab.0.right/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1594008401411" />
+    <state width="1801" height="252" key="GridCell.Tab.0.right/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1594003375883" />
+    <state width="1807" height="212" key="GridCell.Tab.0.right/49.27.1871.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596117524508" />
+    <state width="1807" height="332" key="GridCell.Tab.0.right/49.27.1871.1053/1920.0.1080.1920@49.27.1871.1053" timestamp="1595851241900" />
+    <state width="1807" height="387" key="GridCell.Tab.1.bottom" timestamp="1599483091324">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1894" height="378" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599298954876" />
+    <state width="1807" height="386" key="GridCell.Tab.1.bottom/1920.0.1080.1920/0.428.1920.1080@0.428.1920.1080" timestamp="1595225524018" />
+    <state width="1016" height="467" key="GridCell.Tab.1.bottom/1920.0.1080.1920/0.428.1920.1080@1920.0.1080.1920" timestamp="1594979161207" />
+    <state width="1016" height="756" key="GridCell.Tab.1.bottom/1920.0.1080.1920/49.27.1871.1053@1920.0.1080.1920" timestamp="1595302174915" />
+    <state width="1016" height="756" key="GridCell.Tab.1.bottom/1920.0.1080.1920/49.27.1871.1053@49.27.1871.1053" timestamp="1595341414688" />
+    <state width="1807" height="375" key="GridCell.Tab.1.bottom/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1599023222644" />
+    <state width="1807" height="387" key="GridCell.Tab.1.bottom/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1599483091324" />
+    <state width="1801" height="322" key="GridCell.Tab.1.bottom/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1591947370746" />
+    <state width="1801" height="466" key="GridCell.Tab.1.bottom/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1594003375882" />
+    <state width="1807" height="300" key="GridCell.Tab.1.bottom/49.27.1871.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596117251679" />
+    <state width="1807" height="387" key="GridCell.Tab.1.center" timestamp="1599483091324">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1894" height="378" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599298954876" />
+    <state width="1807" height="386" key="GridCell.Tab.1.center/1920.0.1080.1920/0.428.1920.1080@0.428.1920.1080" timestamp="1595225524018" />
+    <state width="1016" height="467" key="GridCell.Tab.1.center/1920.0.1080.1920/0.428.1920.1080@1920.0.1080.1920" timestamp="1594979161207" />
+    <state width="1016" height="756" key="GridCell.Tab.1.center/1920.0.1080.1920/49.27.1871.1053@1920.0.1080.1920" timestamp="1595302174915" />
+    <state width="1016" height="756" key="GridCell.Tab.1.center/1920.0.1080.1920/49.27.1871.1053@49.27.1871.1053" timestamp="1595341414688" />
+    <state width="1807" height="375" key="GridCell.Tab.1.center/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1599023222644" />
+    <state width="1807" height="387" key="GridCell.Tab.1.center/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1599483091324" />
+    <state width="1801" height="322" key="GridCell.Tab.1.center/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1591947370746" />
+    <state width="1801" height="466" key="GridCell.Tab.1.center/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1594003375882" />
+    <state width="1807" height="300" key="GridCell.Tab.1.center/49.27.1871.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596117251679" />
+    <state width="1807" height="387" key="GridCell.Tab.1.left" timestamp="1599483091324">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1894" height="378" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599298954876" />
+    <state width="1807" height="386" key="GridCell.Tab.1.left/1920.0.1080.1920/0.428.1920.1080@0.428.1920.1080" timestamp="1595225524018" />
+    <state width="1016" height="467" key="GridCell.Tab.1.left/1920.0.1080.1920/0.428.1920.1080@1920.0.1080.1920" timestamp="1594979161207" />
+    <state width="1016" height="756" key="GridCell.Tab.1.left/1920.0.1080.1920/49.27.1871.1053@1920.0.1080.1920" timestamp="1595302174915" />
+    <state width="1016" height="756" key="GridCell.Tab.1.left/1920.0.1080.1920/49.27.1871.1053@49.27.1871.1053" timestamp="1595341414688" />
+    <state width="1807" height="375" key="GridCell.Tab.1.left/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1599023222643" />
+    <state width="1807" height="387" key="GridCell.Tab.1.left/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1599483091324" />
+    <state width="1801" height="322" key="GridCell.Tab.1.left/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1591947370746" />
+    <state width="1801" height="466" key="GridCell.Tab.1.left/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1594003375882" />
+    <state width="1807" height="300" key="GridCell.Tab.1.left/49.27.1871.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596117251679" />
+    <state width="1807" height="387" key="GridCell.Tab.1.right" timestamp="1599483091324">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1894" height="378" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599298954876" />
+    <state width="1807" height="386" key="GridCell.Tab.1.right/1920.0.1080.1920/0.428.1920.1080@0.428.1920.1080" timestamp="1595225524018" />
+    <state width="1016" height="467" key="GridCell.Tab.1.right/1920.0.1080.1920/0.428.1920.1080@1920.0.1080.1920" timestamp="1594979161207" />
+    <state width="1016" height="756" key="GridCell.Tab.1.right/1920.0.1080.1920/49.27.1871.1053@1920.0.1080.1920" timestamp="1595302174915" />
+    <state width="1016" height="756" key="GridCell.Tab.1.right/1920.0.1080.1920/49.27.1871.1053@49.27.1871.1053" timestamp="1595341414688" />
+    <state width="1807" height="375" key="GridCell.Tab.1.right/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1599023222644" />
+    <state width="1807" height="387" key="GridCell.Tab.1.right/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1599483091324" />
+    <state width="1801" height="322" key="GridCell.Tab.1.right/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1591947370746" />
+    <state width="1801" height="466" key="GridCell.Tab.1.right/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1594003375882" />
+    <state width="1807" height="300" key="GridCell.Tab.1.right/49.27.1871.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596117251679" />
+    <state x="49" y="106" width="1871" height="905" key="SettingsEditor" timestamp="1599399116903">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="0" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599305510764" />
+    <state x="296" y="509" key="SettingsEditor/1920.0.1080.1920/0.428.1920.1080@0.428.1920.1080" timestamp="1594954739010" />
+    <state x="1920" y="144" width="1080" height="1609" key="SettingsEditor/1920.0.1080.1920/0.428.1920.1080@1920.0.1080.1920" timestamp="1595047444964" />
+    <state x="1969" y="81" key="SettingsEditor/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1598512267132" />
+    <state x="49" y="106" width="1871" height="905" key="SettingsEditor/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1599399116903" />
+    <state x="343" y="106" width="1125" height="905" key="SettingsEditor/1920.0.1920.1080/55.27.1865.1053@1920.0.1920.1080" timestamp="1594006154816" />
+    <state x="279" y="82" key="SettingsEditor/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1594003496394" />
+    <state width="388" height="541" key="XDebugger.FullValuePopup" timestamp="1593938443371">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="388" height="541" key="XDebugger.FullValuePopup/1920.0.1920.1080/55.27.1865.1053@55.27.1865.1053" timestamp="1593938443371" />
+    <state x="1969" y="125" width="1148" height="955" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598258790103">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1935" y="501" width="1039" height="942" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1080.1920/49.27.1871.1053@1920.0.1080.1920" timestamp="1595249277477" />
+    <state x="1969" y="125" width="1148" height="955" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1598258790103" />
+    <state x="149" y="98" width="1671" height="882" key="dock-window-1" timestamp="1596881274977">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="149" y="98" width="1671" height="882" key="dock-window-1/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1596881274977" />
+    <state x="645" y="159" width="726" height="814" key="find.popup" timestamp="1597479884412">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="2532" y="135" width="744" height="834" key="find.popup/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1596523825889" />
+    <state x="645" y="159" width="726" height="814" key="find.popup/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1597479884412" />
+    <state x="2174" y="247" width="1495" height="583" key="search.everywhere.popup" timestamp="1597908586254">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2174" y="247" width="1495" height="583" key="search.everywhere.popup/1920.0.1920.1080/49.27.1871.1053@1920.0.1920.1080" timestamp="1597908586254" />
+    <state x="297" y="268" width="1456" height="568" key="search.everywhere.popup/1920.0.1920.1080/49.27.1871.1053@49.27.1871.1053" timestamp="1596880190541" />
+    <state x="2063" y="440" width="840" height="1034" key="search.everywhere.popup/49.27.1871.1053/1920.0.1080.1920@1920.0.1080.1920" timestamp="1595934242210" />
+    <state x="297" y="268" width="1456" height="568" key="search.everywhere.popup/49.27.1871.1053/1920.0.1080.1920@49.27.1871.1053" timestamp="1596005548112" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vivo笔试.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vivo笔试.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vivo.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/链表/删除链表中的重复元素.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/链表/孩子们的游戏_环形链表.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/链表/孩子们的游戏_环形链表.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lexin.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/顺序打印.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/顺序打印.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/脑筋急转弯/剑指 Offer 43. 1～n整数中1出现的次数.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/递归/机器人运动范围.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../../../pengqing_projects_all/segmentation/dataloaders/xiongan.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/排序/逆序对.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/排序/各种排序.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/排序/逆序对.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/动态规划/正则表达式匹配.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sorted_.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/栈/单调栈_矩形面积.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二分查找/x平方根精度固定.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二分查找/面试题 10.03. 搜索旋转数组.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二分查找/面试题 10.03. 搜索旋转数组.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/回溯全排列.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/快手/快手锻炼.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/栈/基本计算器实现.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/栈/bool表达式计算.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/贪心/移除掉K位数字,使得剩下的最小.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1111111.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/pdd/pdd1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/pdd/pdd1.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/贪心/IPO问题.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/贪心/拼接最大数.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/动态规划/最长回文子.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/递归回溯分治/nqueen.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/数字拆解成完全平方数.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/滴滴手撕/分割字串.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/递归回溯分治/组合总和2.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/字节高频/搜索二维矩阵.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/京东/编程题2.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/京东/编程题2.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/哈希表/560 和为k的子数组.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二分查找/查找一个排序数组中等于target的左右索引.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/岛屿数量.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/iou_compute.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/猿辅导/状态转移.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/链表/k个一组实现链表.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/贝壳/贝壳2.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/贝壳/贝壳2.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/递归回溯分治/添加不同的括号.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/递归回溯分治/4两个有序数组找中位数.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/递归回溯分治/4两个有序数组找中位数.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/字符串/最小覆盖子串.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/字符串/最小覆盖子串.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/字符串/最小覆盖子串.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/美团/美团.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/奇安信/奇安信1.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/位运算/二进制中1的个数.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/栈/判断数组是否为bst的后续.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/iou_compute.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/旋转打印数组.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/旋转打印数组.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/旋转打印数组.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/旋转打印数组.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/虹软/虹软2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/美团/美团821-3.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/旷视/旷视824-1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/旷视/旷视824-1.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/旷视/旷视824-2.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/旷视/旷视824-2.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/旷视/旷视824-2.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/广联达/广联达2.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/字符串排列.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/字符串排列.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/凯哥.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/凯哥.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/依图/依图4.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/依图/依图4.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/美团/美团829-4.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/百度/百度2.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/bilibili/b3.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/bilibili/b3.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/华为/华为96.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/腾讯/腾讯1.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试真题/腾讯/腾讯1.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$1.coverage" NAME="腾讯1 Coverage Results" MODIFIED="1599398334213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试真题/腾讯" />
+    <SUITE FILE_PATH="coverage/leetcode$907_1.coverage" NAME="贝壳907-1 Coverage Results" MODIFIED="1599464528189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试真题/贝壳" />
+    <SUITE FILE_PATH="coverage/leetcode$907_3.coverage" NAME="贝壳907-3 Coverage Results" MODIFIED="1599468575866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试真题/贝壳" />
+    <SUITE FILE_PATH="coverage/leetcode$96.coverage" NAME="华为96 Coverage Results" MODIFIED="1599463208773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试真题/华为" />
+    <SUITE FILE_PATH="coverage/leetcode$2.coverage" NAME="旷世2 Coverage Results" MODIFIED="1599483219838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试真题/旷世" />
+    <SUITE FILE_PATH="coverage/leetcode$907_4.coverage" NAME="贝壳907-4 Coverage Results" MODIFIED="1599465338854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试真题/贝壳" />
+  </component>
+</project>

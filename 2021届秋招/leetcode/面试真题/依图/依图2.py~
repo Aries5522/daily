@@ -1,0 +1,21 @@
+# M = int(input())
+M = 2
+
+
+def main():
+    # string = input()
+    string = "123112111"
+    n = len(string)
+    string_record=[]
+    num_record=[]
+    i = 0
+    j = 1
+    while i < n and j <n:
+         while j<n and string[j]==string[i]:
+             j+=1
+         string_record.append(string[i])
+         num_record.append(j-i)
+         i=j
+    print(string_record,num_record)
+
+main()
